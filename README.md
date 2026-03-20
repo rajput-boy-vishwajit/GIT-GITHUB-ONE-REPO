@@ -38,5 +38,5 @@ git congig --list
 ...creating and working on new branch from the command line
 </p>
 <pre>
-
+git branch
 </pre>
