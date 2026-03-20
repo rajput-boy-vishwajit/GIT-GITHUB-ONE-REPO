@@ -66,7 +66,7 @@ git status
 </pre>
 
 <p>
-... from the command line
+...--- from the command line
 </p>
 <pre>
 git 
