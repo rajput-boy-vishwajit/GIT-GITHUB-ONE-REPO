@@ -76,7 +76,7 @@ git
 ...I have Changed the UserName to "RajputVishwajit"
 </p>
 <pre>
-git 
+git status
 </pre>
 
 
